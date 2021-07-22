@@ -5,5 +5,8 @@ print(s.join(['123', '66', '45']))
 print(s.upper())
 print(s)
 print(s.lower())
+print(s.upper())
+
+
 
 
